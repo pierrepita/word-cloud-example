@@ -1,0 +1,320 @@
+Data,Origem,Usuário,Técnico,Modalidade,Problema,Solução
+23/03/0202,Slack,Renzo,Fernando,Acesso VPN,Aplicativo Fortclient bloqueando Hotspot residêncial.,Configurar policitar para liberação no fortclient o endereço do hotspot residêncial. (PLANEJADO 24-03)
+18/03/2020,zap,Camila,vandson,sistema,instalação de stata no notebook Cidas,"Não foi possivel, faltra de licença"
+18/03/2020,pessoalmente,Priscila,vandson,vpn,configuração,"instalado mas não estabelicido, verificado por Pedro"
+19/03/2020,zap,Alayde,vandson,vpn,configuração VPN,ajuda remota
+19/03/2020,zap,camila,vandson,suporte ,configuração teclado,verificado e solucionado
+19/03/2020,zap,camila,vandson,VPN,não conecta a VPN,acessado e verificado a instabilidade no Cidacs
+19/03/2020,zap,Lindland,vandson,vpn,configuração VPN,ajuda remota
+19/03/2020,Whatsapp,"Cristiana, Maira",Pedro,Internet,Internet caindo e voltando,"Problema no fw master, desativado e deixado slave como default"
+19/03/2020,pessoalmente,Robson,Pedro,Ativacao Storage QNAP,Storage Qnap sem acesso a gerencia,"Estava na VPN errada, verificado e configurado para correta."
+20/03/2020,zap,Alayde,vandson,certificado sefaz,site não abre pq falta certificado,verificado via teamview
+20/03/2020,Whatsapp/Slack,Enny Paixão,Fernando,Instalação de Pacote,Pacotes do Stata,Liberação do servidor Zika para baixar pacotes do Stata
+20/03/2020,slack,Antonio Carlos Paula,vandson,VPN,usuário não consegue conectar vpn,usuário conseguiu porem teve queda pela instabilidade
+20/03/2020,slack,Enny ,vandson,stata,deseja instalação do pacote,usuária necessitou instalação de pacote no stata
+20/03/2020,Slack,Lindland,Fernando,Acesso Remoto,Sem conseguir acessar RDP,Adicionar ao grupo do Active Directory (VPN_COVID_19)
+20/03/2020,Slack,"Maira, Cristiana",Pedro,"VPN, internet",Sem conseguir acessar RDP,REconfigurado forticlient e rdp
+20/03/2020,slack,Roberto,Pedro,Acesso a DMZ Projetos,Equipe roberto sem acesso dmz projetos,Apois resolver problema de internet foi solucionado
+20/03/2020,glpi,maira,Pedro,Criação acesso DSH,Solicitação de criação de usuario,Feito a criação do usuario
+21/03/2020,zap,poliana,vandson,wps,wps n abre,reinstalado via teamview
+21/03/2020,Whatsapp,Andrea Ferreira,Fernando,vpn,Sem acesso ao servidor Blade,Configurado Fortclient 
+21/03/2020,whatsapp,"Poliana, Andrea",Pedro,Acesso Ambiente Analises,Ping 200.128.7.1 fora,Estabelecido ping com este IP
+23/03/2020,Whatsapp,Flavia Jose,Fernando,Acesso Servidor DSH,Senha inválida,Redefinição da senha de acesso ao servidor DSH.
+23/03/2020,Whatsapp,Lindland,Fernando,Acesso RDP,Sem conexão para estação de trabalho remota.,Liberado no Firewall acesso do PC-2048 em Policy
+23/03/2020,Whatsapp,Maíra Souza,Fernando,Acesso RDP,Sem conexão para estação de trabalho remota.,Realizado configuração de uma nova conexão VPN.
+23/03/2020,Whatsapp,Maíra Souza,Fernando,Software,Sem aplicativo de escritório (WPS),Instalado WPS 
+23/03/2020,Slack,Samila Oliveira,Fernando,Acesso Storage,Sem conexão para Storage.,Realizado mapeamento das Unidade \\172.16.10.20\NPDADOS e \\172.16.10.2\usuarios\samila.oliveira
+24/03/2020,Whatsapp,Maíra Souza,Fernando,VPS,Instalação de pacotes e libs no stats,Instalado pacotes no Stata.
+24/03/2020,Whatsapp,Pierre,Fernando,VPS,Configurar serviço web,"Configuração de Vhost, Serviço do Apache, /etc/hosts VPS COVID19"
+24/03/2020,reuniao,Pierre,Pedro,Bkp Fita diario,Reconfigurar backup para rodar 1x na semana,Criado job der backup para rodar 1x na semana observar funcionamento
+24/03/2020,E-mail,Julia P.,Fernando,Servidor DSH,Mapeamento de Unidade de rede,Usar o serviço do Samba dsh.cidacs no mapeamento \\173.16.15.20\RESULTADOS.
+25/03/2020,zap,Ana amelia,vandson,WPS,não ta instalado,instalado com sucesso
+25/03/2020,zap,Ana amelia,vandson,compactador,forma de utilização,explicado com sucesso
+25/03/2020,zap,Camila,vandson,WPS,não ta instalado,instalado com sucesso
+25/03/2020,zap,Flavia Jose,vandson,WPS,não ta instalado,instalado com sucesso
+25/03/2020,zap,Flavia Jose,vandson,office,arquivo não abre,verificado e configurado
+25/03/2020,Whatsapp,Charles Ferreira,Fernando,Acesso RDP,Sem conexão para estação de trabalho remota.,"Instalado/Configurado XRDP no Centos, Configurado Selinux. "
+25/03/2020,Whatsapp,Charles Ferreira,Fernando,Conexão SSH,Conectar SSH com domínio SAMBA via terminal,ssh usuario@ip@dominio
+25/03/2020,Whatsapp,Pierre,Fernando,VPS,Permissão Diretório,Permissão remota no diretório /opt/dados para grupo+dono
+25/03/2020,Slack,Samila Oliveira,Fernando,Acesso RDP,Sem conexão para estação de trabalho remota.,Informação (VPN Desconcetada)
+25/03/2020,email,Kleyton,Pedro,Firewall Fortigate,Falha no firewall master,"Rodado o Hqip sem resultados de falha, aberto RMA com fortinet aguardar retorno."
+26/03/2020,whatsapp,Karina,Pedro,webcam,Nao funciona,"Estava desativada, camera reativada"
+26/03/2020,GLPI,Liliana,Pedro,Copia Datasets,Acesso ao DSH,Efetuado a copia dos datasets conforme solicitado
+27/03/2020,Whatsapp,Andrea Ferreira,vandson, pacote office (wps),instalação do pacote office,instalado com sucesso o wps
+27/03/2020,Whatsapp,Enny Paixão,Fernando,Liberção Internet DSH Zika,Sem conseguir baixar pacote no Stata,Sem conseguir baixar pacote no Stata
+27/03/2020,Whatsapp,Maíra Souza,Fernando,Acesso Storage,Não conseguia acessar o \\srv-storage\maira.lima\,Identificado que se tratava de um erro operacional. 
+27/03/2020,Whatsapp,Maíra Souza,Fernando,Instalação de Pacote R no Jupiter Notebook VPS,Pacote R não instalado no Jupyter Notebook,
+27/03/2020,Whatsapp,Pierre,Fernando,Instalar/ Cnfigurar - Software (VPS),"MariaDB, PhpMyadmin ","Instalado e Configurado Mariadb, Banco/ User criado, PhpMyadmin Configurado. Link Simbólico criado. "
+27/03/2020,slack,Renzo,Pedro,Problema Rstudio,Nao abre firefox no rstudio,Derrubado usuario e efetuado logon com sucesso no Rstudio
+28/03/2020,Whatsapp,Pierre,Fernando,Segurança -> Aplicação DB ,Vulnerabilidade,Modificar porta Mysql 3306 para 5432
+30/03/2020,whatsapp,Dandara,Pedro,Bloqueio forticlient youtube,Verificar bloqueio youtube,AInda sem solucao
+30/03/2020,Whatsapp,Enny Paixão,Fernando,Liberção Internet DSH Zika,Sem conseguir baixar pacote no Stata,Sem conseguir baixar pacote no Stata
+30/03/2020,Whatsapp,Pierre,Fernando,Atualizar PHP 5.4 para 7.3 (VPS),Se não for atualizado versão do Php Aplicação Owncloud não funcionará ,"Upgrade realizado com sucesso, não necessitando remoção da versão anterior. "
+30/03/2020,Whatsapp,Pierre,Fernando,Instalar/ Cnfigurar - Software (VPS),Owncloud FTP ,Instalar e Configurar. 
+30/03/2020,whatsapp,Rodrigo,Pedro,INstalar forticlient,Intalar acesso remoto note pessoal,Instalado e configurado  . 
+30/03/2020,whatsapp,Sheila Lago,Pedro,Acesso Remoto, COnfigurar acesso maquina sheila,Realizando instalacao e configuracao
+30/03/2020,slack,Mirlei,Pedro,Desbloquear site covid19,Liberar sites e softwares covid portal .og,Colocado na lista de exceção
+31/03/2020,Whatsapp,Andrea Ferreira,Fernando,Base de Dados (DSH),Sem stata no novo Servidor ,Cópia de recorte de base 173.16.13.9  para servidor 173.16.13.4 para realizar análise 
+31/03/2020,Whatsapp,Charles Ferreira,Fernando,Instrução Wordpress CIDACS,Ambiente de Homologação ser acessado via localhost,Conferência skype realizada e instrução passada via e-mail com site completo funcional. 
+31/03/2020,Whatsapp,Pierre,Fernando,VPS,"Attack SSH, WEB e Service (VPS)",Criação de script iptables para bloqueio com limit ativado (falta validação do coordenador).
+01/04/2020,Whatsapp,Gabriela Lima,Fernando,Adicionar no grupo Webmasters (VPS),Acesso ao diretório /var/www/html_teste para exclusão ,Adicionado no grupo Webmasters e modificado permissão do diretório
+01/04/2020,Whatsapp,Lindland,Fernando,Acesso (Alterar tempo de vigência),Alterar tempo de vigência de contrato Alayde Sarno,Tempo de vigência no Active Directory Modificado
+01/04/2020,Whatsapp,Lindland,Fernando,Acesso (Alterar tempo de vigência),Alterar tempo de vigência de contrato Maíra Lima,Tempo de vigência no Active Directory Modificado
+01/04/2020,Whatsapp,Pierre,Fernando,Regra no Iptables acesso VPS,Acesso indisponível para o Júpiter Notebook porta 5555,Criado regra no Iptables para acesso externo porta 5555 júpiter 
+01/04/2020,Whatsapp,Pierre,Fernando,Regra no Iptables acesso VPS,Acesso indisponível para o Júpiter Notebook porta 8888,Criado regra no Iptables para acesso externo porta 8888 júpiter 
+01/04/2020,Whatsapp,Pierre,Fernando,Script check diretório (VPS),Realizar checagem do diretório Silvano e Emanuela sobre novos arquivos CSV e PDF e mandar notificação por e-mail ,
+01/04/2020,slack,Andrea Ferreira,Pedro,Problema conversao .csv para .dta,Dataset rendas de PDCV está dando erro na conversao em .dta,Verificar se consegue converter diretamente no R
+01/04/2020,Slack,Genicleiton,Fernando,Permissão (leitura e escrita) VPS Apache,Permissão negada no diretório /var/www/html/_teste,Realizado modificação do grupo e dono apache para dono apache e grupo webmasters
+01/04/2020,slack,Roberto,Pedro,Desbloqueio servicos DMZ Projetos,Usuarios MACs sem acesso a alguns serviços,Liberado regra na vpn projetos para ALL
+02/04/2020,zoom,Pierre,Pedro,Ambiente Analises,Criação de nova VM para NPD,Criado nova VM para NPD conforme solicitação
+02/04/2020,whastapp,Enny,Pedro,Ambiente Analises,Lentidao ao rodar analises,"VErificado que servidor está ok, com 50% memoria RAM livre"
+02/04/2020,email,Andreza GCE,Pedro,Envio de outputs,Solicitação de envio de resultado de analises,Enviado para curadoria avaliar
+02/04/2020,email,Lindilande,Pedro,Acesso atualizar data vigencia,Realizado atualização de data de vigencia de varios usuarios,Atualizado
+03/04/2020,Whatsapp,Ila Falcão,Fernando,Cópia de arquivo ODS (DSH),Cópia concluída com sucesso. ,Cópia feita com sucesso. 
+03/04/2020,Whatsapp,Pierre,Fernando,Verificação do Acesso PhpMyadmin (VPS),Aplicação não está funcionando,Configurado Virtualhost do phpmyadmin e criado linksímbolico /var/www/html/myremote 
+03/04/2020,Whatsapp,Pierre,Fernando,Redefinição de Senha Owncloud (VPS),Não consegue realizar acesso ao trocar a senha no Owncloud VPS,"Criado conta teste, e-mail de validação ok, senha trocada e enviado screen para o solicitante."
+03/04/2020,Whatsapp,Pierre,Fernando,Upload de arquivos Owncloud (VPS),Não consegue enviar uploads pelo owncloud ,Configurado upload no php para 100M com tempo de 60s. 
+03/04/2020,Whatsapp,Pierre/Diego,Fernando,Segurança (http://covid19br.org/main-site-covida,Pecorrer nos diretórios do projeto sem restrição. ,"Arquivo .htaccess modificado para o diretório /var/www/html/ e colocado opção de Options All -Indexes
+"
+03/04/2020,Whatsapp,Poliana,Vandson,Stata,orientações Stata,Orientada com sucesso.
+03/04/2020,Whatsapp,Priscila,Vandson,VPN,orientações VPN,Orientada com sucesso.
+03/04/2020,Whatasapp,Pierre,Fernando,Acesso Web (VPS),Sem acesso ao front-end http://www.covid1br.org/main-site-covida,http://www.covid1br.org/main-site-covida\ (Vulnerabilidades encontradas e repassada)
+06/04/2020,email,Alessandro GCE,Pedro,Ambiente Analises,Copia de arquivos output,Enviado para curadoria avaliar e liberado para usuario
+06/04/2020,email,Maira/ Mirjam Glasgow,Pedro,Ambiente Analises,Copia de arquivos output,Enviado para curadoria avaliar
+07/04/2020,Whatsapp,Enny Paixão,Fernando,Liberção Internet DSH Zika,Sem conseguir baixar pacote no Stata,Sem conseguir baixar pacote no Stata
+08/04/2020,Wthsapp,Pierre,Fernando,Webserver -> Vhost COVID19,o endereço covid19br.org ser o novo main-site-covida,Modificado Vhost e alterado o .htacess do diretório /var/www/html/main-site-covida/
+08/04/2020,Whatsapp,Pierre,Fernando,Acesso Diretório Owncloud VPS (Permissão) ,Listar arquivos do diretório /opt/owncloud/data/barbara.ramos/files,Grupo criado curadoria-owncloud adicionado a colaboradora mairalima
+08/04/2020,Whatsapp,Pierre,Fernando,Acesso Diretório Owncloud VPS (Permissão) ,Listar arquivos do diretório opt/owncloud/data/gervasio.santos/files,Grupo criado curadoria-owncloud adicionado a colaboradora mairalima
+09/04/2020,Wthsapp,Alayde,Vandson,VPN,Usuária n acessa vpn,feito acesso remoto e configurado
+09/04/2020,Whatsapp,Gabriela Lima,Fernando,Webserver -> Vhost Dashboard,Acesso ambiente de Produção <-> Homolog,Modificado ServerAlias de covid19br.org para painel.covid19br.org
+09/04/2020,Whatsapp,Gabriela Lima,Fernando,Criação de usuário VPS,Acesso ambiente VPS André Alves,Usuário criado com sucesso e enviado para o e-mail pessoal as credenciais 
+09/04/2020,Whatsapp,Gabriela Lima,Fernando,Adicionar no grupo Webmasters (VPS),Adicionar usuário André Alves ao grupo Werbmasters,Adicionado no grupo Webmasters
+09/04/2020,Whatsapp,Gabriela Lima,Fernando,Modificar grupo e dono do projeto _teste /var/www/html ,Modificado dono/grupo Apache:Apache para Apache:Webmasters,Modificado grupo/dono do projeto _teste 
+09/04/2020,Email,David Resella ,Fernando,Server -> Infraestrutura,Servidor indisponível via VPN ,"Servdidor acessível e disponível, e-mail enviado para o requerente. "
+13/04/2020,pessoalmente,Alayde,Pedro,Problema acesso maquina cidacs,acesso remoto,configurado acesso remoto de alayde
+13/04/2020,pessoalmente,Cristiana,Pedro,Ambiente Analises,Cadastro usuario,"Cadastrado liberado para jose guilherme, servidor Sifilis"
+13/04/2020,pessoalmente,Pedro,Pedro,Substituição firewall em garantia,Troca do firewall em garantia,"Instalado firewall no rack, colocado antigo na caixa"
+13/04/2020,glpi,Liliana,Pedro,Ambiente Analises,Copia de Dataset,Copiado base Sinasc GEo para servidor de georreferenciamento
+14/04/2020,whatsapp,Alessandro GCE,Pedro,Liberacao de Input,Liberacao para Alessandro,Liberado entrada de dados
+14/04/2020,whatsapp,Enny,Pedro,Problema com stata,Stata fechando automaticamente,"Porblema de espaco em disco, liberado 160GB para rodar analises"
+14/04/2020,whatsapp,Flavia Jose,Pedro,Problema acesso ao ambiente analises,Dando erro de senha,Alterado senha com sucesso
+14/04/2020,whatsapp,Poliana,Pedro,Problema descompactacao arquivo,Nao consegue descompactar shape files,Liberado permissao de descompactação
+14/04/2020,whasapp,Maira,Pedro,Liberação de output,Liberacao para poliana,Liberado output
+15/04/2020,Whatsapp,Pierre,Fernando,Script check diretório (VPS) Owncloud Barbara,Realizar checagem do diretório owncloud ,Script criado com sucesso e informado diretório /scripts para ser colocando no crontab
+15/04/2020,Whatsapp,Pierre,Fernando,Script check diretório (VPS) Owncloud Emanuela,Realizar checagem do diretório owncloud ,Script criado com sucesso e informado diretório /scripts para ser colocando no crontab
+15/04/2020,Whatsapp,Pierre,Fernando,Acesso Dashboard e Redecovida Web VPS,Verificar URL covid19br.org e www.covid19br.org,Alias no vhost incluído para acesso somente ao site redecovida
+15/04/2020,Slack,Renzo,Vandson,Office,instalar pacote office,Instalado o WPS com sucesso
+16/04/2020,whatsapp,Andre,Pedro,Instalacao pacote Sparklyr,Solicitacao de biblioteca,Instalado Sparklyr com sucesso
+16/04/2020,Whatsapp,Gabriela Lima,Fernando,Bloquear Acesso lista URL  VPS,Bloquear acesso a listagem na URL homologa.covid19br.org/assets e realizar get na url principal,Realizado inclusão de diretiva no vhost dashboard.conf (AGUARDANDO VALIDAÇÃO)
+16/04/2020,Whatsapp,Gabriela Lima,Fernando,Bloquear Acesso lista URL  VPS ,Bloquear acesso a listagem na URL painel.covid19br.org/assets e realizar get na url principal,Realizado inclusão de diretiva no vhost dashboard.conf (FUNCIONANDO)
+16/04/2020,Whatsapp,Maíra Souza,Fernando,Cópia de arquivo Owncloud -> VPS,Copiar arquivo do diretório /var/www/html/owncloud/emanuela/files/dados-sms,Arquivo copiado para pasta /opt/dados/raw/sms
+16/04/2020,Whatsapp,Maíra Souza,Fernando,Cópia de arquivo Owncloud -> VPS,Copiar pasta do diretório /var/www/html/owncloud/emanuela/files/bancos/,Arquivo copiado para pasta /opt/dados/raw/sms
+16/04/2020,Whatsapp,Maíra Souza,Vandson,Bloqueio web,Forticlient bloqueando site,configurado  forticlient e site abrindo
+17/04/2020,Whatsapp,Gabriela Lima,Fernando,Webserver -> VPS,Configuração do .htaccess no projeto _teste,Configurado .htaccess no projeto homologação _teste COVIDA
+17/04/2020,Whatsapp,Pierre,Fernando,Instalação/Configuração Servidor de E-mail -> VPS,Configurar servidor de e-mail ,Criado servidor de e-mail iRedmail / Roundcube
+20/04/2020,zoom,Roberto,Pedro,Formatação servidor Macs,Formatar servidor Macs tirando linux e colocando vmware,Formatado servidor conforme solicitado e instalado vmware
+20/04/2020,Whatsapp,Emanuela Conceição SMS,Fernando,Webserver -> VPS,Verificar indisponibilidade do link transfer.covid19br.org,"Solicitado para a requerente realizar auto-refresh, site disponpivel "
+20/04/2020,Whatsapp,Gabriela Lima,Fernando,Webserver -> VPS ,Condigurar proxypass homologa.covid19br.org,Configurado com sucesso proxypass
+20/04/2020,Whatsapp,Maíra Souza,Fernando,Cópia de arquivo Owncloud -> VPS,Copiar arquivo do diretório /var/www/html/owncloud/emanuela/files/dados-sms,Arquivo copiado para pasta /opt/dados/raw/sms
+20/04/2020,presencial,Pedro,Pedro,Troca e configuração do firewall master,Configuração do firewall master que veio da troca,Efetuado reconfiguração do firewall em HA
+22/04/2020,whatsapp,Enny,Pedro,Output,Saida de graficos do DSH,Solicitado para enviar para curadoria
+22/04/2020,whatsapp,Leandro,Pedro,MySQL travado,Servico interrompido,Restartado servico
+22/04/2020,whatsapp,Pierre,Pedro,Fortitoken,criacao do token,Token criado com sucesso
+22/04/2020,Whatsapp,Pierre,Fernando,Webserver -> SSL,Instalação do certificado SSL no Apache,Instalado mod_ssl e configurado os vhosts e com force https para o domínio *.covid19br.org
+22/04/2020,whatsapp,Robson,Pedro,Fortitoken,Criacao do token,Token criado com sucesso
+23/04/2020,whatsapp,Guilherme,Pedro,Instalacao pacotes R,Alguns pacotes baixados outros com problemas,PAcotes baixados porem alguns apresentaram problemas
+23/04/2020,Whatsapp,Maíra Souza,Fernando,Cópia de arquivo Owncloud -> VPS,Copiar arquivo do diretório /var/www/html/owncloud/emanuela/files/dados-sms,Arquivo copiado para pasta /opt/dados/raw/sms
+23/04/2020,Whatsapp,Raiza Tourinho,Fernando,VPS -> Webserver,Acesso *.covid19br.org com www ,Configurado virtualhost para acesso via www.covid19br.org
+23/04/2020,Email,Dandara,Pedro,Download arquivos ibge,Baixar arquivos PNAD e colocar no analises 5,Baixando e passado os arquivos para curadoria avaliar
+24/04/2020,Whatsapp,Gabriela Lima,Fernando,Webserver -> VPS,Endereço https://homologa.covid19br.org/salvador não acessa ,Configurado SSLEngine on no virtualhost homologa.conf 
+24/04/2020,Whatsapp,Gabriela Lima,Fernando,Webserver -> VPS -> Wordpress,Endereço do covid19br.org via https não está informando segurança.,Instalando Plugin Really SSL no Wordpress
+24/04/2020,Whatsapp,Genicleiton,Fernando,Webserver -> VPS,Júpiter via web não escreve no projeto -> /_teste/assets/dataset-web/dados/raw/data/web/wesleycota/*.bkp,Configurado no virtualhost homologa.conf para escrever no diretório e não lista via web 
+24/04/2020,Whatsapp,Karina,Fernando,Webserver -> VPS -> Wordpress,Sem acesso ao wordpress para edição ,Configurado perfil da colaboradora no Wordpress
+24/04/2020,Email,Andrea Ferreira,Pedro,Liberação espaco e permissoes de bases,Problemas com espaco em disco no Dados 2 analises 6,Respondido email com orientações e aguardando retorno.
+27/04/2020,Zap,Dandara,Vandson,bloqueio de pagina web,fortclient bloqueando pagina,configurado o forticlient
+27/04/2020,Whatsapp,Pedro Ornelas,Fernando,Virtualização -> Vmware -> DataSafe,VM Analises19 sem acesso,"Sistema operacional em modo de Leitura, configurado no boot e modificado para leitura e escrita. "
+27/04/2020,Whatsapp,Pierre,Fernando,Webserver -> SSL -> Cidacs,Instalar e configurar o SSL no site cidacs.bahia.fiocruz.br,Instalado e configurado SSL no site do CIDACS
+27/04/2020,Whatsapp,Pierre,Fernando,Webserver -> Wordpress,Remover listagem WP-includes,Configurado .htaccess no projeto cidacs.bahia.fiocruz.br
+27/04/2020,Whatsapp,Pierre,Fernando/Gabriela,Criar dasboard para status de aplicações,EM ANÁLISE,Angular + PHP  CGI + Shell Script 
+27/04/2020,whatsapp,Rafael veiga,Pedro,Senha vpn cidacs,Esqueceu senha da vpn para o epigen,senha trocada
+27/04/2020,slack,Gabriela Lima,Pedro,Senha vpn DSH,Esqueceu senha da vpn DSH,senha trocada
+28/04/2020,Zap,Ana amelia,Vandson,Notebook esquentando e desligando,verificado que o cooler do notebook não esta funcionando,"não foi possivel uma manutenção precisa, mas o notebook ta funcionando. Porem a usuária terá que levar a uma assistencia "
+29/04/2020,whatsapp,Julia P.,Pedro,VM travada ,Vm analises 20 travada,"Não consegui um reboot forçado, foi preciso reiniciar lamina 05"
+29/04/2020,whastapp,Cristiana,Pedro,Relatorio acesso VPN,Verificação de acesso a rede cidacs via vpn lindilande,Passada informacao para cristiana
+30/04/2020,Zap,Alayde,Vandson,Email,configração de email,configurado como solicitado
+30/04/2020,email,Carlos,Pedro,Copia de resultados analises alessandro,Envio de arquivos alessandro gce e Mirjam,Enviado os outputs
+02/05/2020,Zap,Yury,Vandson,Notebook não inicializa,recuperação de dados,recuperado com sucesso
+04/05/2020,Zap,Alayde,Vandson,configuração de fonte,Formatação de textp de email,formatado como solicitado
+04/05/2020,Zap,Yury,Vandson,Recuperação de S.O. e configuração de notebook da empresa,Necessário preparar notebook da empresa,"feito configuração de notebook da empresa e formatado o pessoal, pois o S.O. foi corrompido devido a um desligamento "
+04/05/2020,whatsapp,Cristiana,Pedro,Problema de acesso remoto,Solicitado reinicio da maquina,Conexao ok
+04/05/2020,email,Andreza GCE,Pedro,Problema com Token,Usuaria informa que esta com problemas no token,Aguardo retorno dela
+04/05/2020,email,Daiane,Pedro,Copia de output,Solciitado retirada de dados Output,Enviado arquivos para curadoria
+04/05/2020,email,Ila Falcão,Pedro,Solicitação de Output,Ila solicita saida de dados,Enviado a curadoria
+06/05/2020,Zap,Elzo,Vandson,instalação WPS,solicitação instalação WPS,instalado com sucesso.
+06/05/2020,zap,Genicleiton,Pedro,criacao usuario no DSH,Samila solicita criacao do usuario de genicleito para acesso vm NPD,Realizado a criação do token e acesso VPN
+06/05/2020,slack,renzo,Pedro,Lentidao na VM Analises 6,Usuario informa muito delay na VM analises 6,Detectado extrema lentidao na internet do usaurio e feito ajustes no seu desktop
+06/05/2020,email,Maira,Pedro,Criacao usuario no DSH,Solicitado assinatura da ficha de cadastro pelo usuario,Aguardo ficha prrenchida
+07/05/2020,zap,Priscila,vandson,zoom,atualização zoom,atualizado com sucesso
+11/05/2020,zap,Alayde,vandson,vpn,não conecta a VPN,"apenas configuração do forte client, usuário não tava clicando no correto."
+11/05/2020,zap,Elzon,vandson,instalação,instalar qgiz,instalado com sucesso.
+11/05/2020,zap,Samila,vandson,Wps,Instalação wps,instalado com sucesso.
+,GLPI,Carlos,Pedro,Cdastro servidor PBF_PNPRE,Carlos solicita cadastro Andre no analises 15,Criado conforme solicitacao GLPI
+,GLPI,Maira,Pedro,Cadastro server GEO_DI,Maira solicita cadastro de Andrea no geodi,Criado cadastro conforme GLPI
+12/05/2020,zap,Marcus Freire,vandson,Office,instalação pacote office,foi instalado o Libre Office
+12/05/2020,zap,Elzon,vandson,Instalação,instalação OSview,instalado com sucesso.
+13/05/2020,email,Samila Oliveira,Pedro,cadastro fortitoken,Inclusao cadastro NPD VM cluster,Realizado cadastro dos usuarios
+13/05/2020,zap,Camila Silveira,vandson,office,instalação office,instalado
+14/05/2020,Ligação Telefônica,Andrea Ferreira,Fernando,Liberação Internet DSH ,Liberação de Internet FW,Instalação de pacote Stata
+14/05/2020,Whatsapp,Gabriela Lima,Fernando,Criação de Usuário VPS,Criação de Usuário Renan Bispo para desenvolvimento de nova API rede COVIDA ,Criação de Usuário
+14/05/2020,Whatsapp,Mirlei Moura,Fernando,Criação de Usuário VPS,Criação de Usuário parara Mirlei Moura,Criação de Usuário
+14/05/2020,Whatsapp ,Gabriela Lima,Fernando,Instalação de Biblioteca para Django,Instalação de biblioteca Django wsgi,Instalação de biblioteca Django wsgi
+14/05/2020,Whatsapp,Gabriela Lima,Fernando,Criação de Vhost para Django com Apache,Criação de Vhost para Django com Apache,"EM ANÁLISE -> CRIADO, ESPERANDO VALIDAÇÃO DO BACK-END "
+14/05/2020,Whatsapp,Cris Almeida,Fernando,Storage - CIDACS,Arquivos Administrativo do Storage sem acesso. ,VPN Intermitente 
+14/05/2020,Whatsapp,Gabriela Lima/Renan Bispo,Fernando,Instalação de Biblioteca no Python psycopg2,Instalação de biblioteca psycopg2 no pyhton 2.7 projeto covida. ,Biblioteca Instalada
+14/05/2020,Whatsapp,Fernando/Pierre,Fernando,Backup manualmente de todos projetos e configurações VPS,Backup manualmente de todos projetos e configurações VPS,Backup manualmente de todos projetos e configurações VPS
+15/05/2020,Whatsapp,Gabriela Lima/Renan Bispo,Fernando,Instalação bibliotecas do PIP -> VPS,"asgiref==3.2.3
+dj-database-url==0.5.0
+Django==3.0.2
+django-heroku==0.3.1
+djangorestframework==3.11.0
+gunicorn==20.0.4
+pytz==2019.3
+sqlparse==0.3.0
+django-cors-headers~=3.2.1
+django-filter~=2.2.0
+django-extra-fields",Biblioteca Instaladas
+15/05/2020,Whatsapp,Renan Bispo,Fernando,Redirect API COVIDA -> Back-end 5000 port Apache,Redirect API COVIDA -> Back-end 5000 port Apache,EM ANÁLISE
+15/05/2020,Whatsapp,Samila Oliveira,Fernando,Conectar VPN Covid,Sem conseguir conectar na vpn covid,Porta de configuração da VPN errado modificado de 443 para 10443
+15/05/2020,Whatsapp,Fernando,Fernando,"Bloqueio VPS -> GET, POST, PUT e Leitura de Cabeçalhos","Bloqueio VPS -> GET, POST, PUT e Leitura de Cabeçalhos",Configurado Apache para bloqueio.
+15/05/2020,email,Dandara,Pedro,Problema acesso servidor,Area de trabalho travada,"Derrubado usuario, solicitado teste"
+18/05/2020,Whatsapp,Gabriela Lima/Renan Bispo,Fernando,Instalação bibliotecas do PIP -> VPS,Biblioteca Whitenoise não encontrada para carregar aplicação Django,biblioteca instalada (pip install whitenoise)
+18/05/2020,Whatsapp,Gabriela Lima/Renan Bispo,Fernando,VPS - Webserver -> Django API e ADMIN,Aplicação não está sendo possível acessar ,"Execução errada de subir aplicação, (python manager.py runserver 0.0.0.0:8000) "
+22/05/2020,whatsapp,Dandara,Pedro,Ambiente Analises,Solicita instalacao do Sparklyr no Rstudio,Feito
+20/05/2020,email,Julia P.,Pedro,Ambiente Analises,Solicita output dos dados,Feito
+20/05/2020,zoom,Pierre,Pedro,Enviar informações para orçamentos forticlient e fortitoken,Enviado informacoes para o NOP realizar as cotacoes,feito
+21/05/2020,whastapp,Davide,Pedro,Servidor travado,Derrubado usuario de davide,feito
+25/05/2020,email,Pablo Ivan,Pedro,Criacao VM para Epigen,Pablo solicta vm do epigen para espaco em disco,Feito
+26/05/2020,Whatsapp,Julia P.,Fernando,Liberação VPN DSH ,Instalação de Pacotes Stata,Instalação de Pacotes Stata
+26/05/2020,Whatsapp,Marcus Freire,Fernando,Acesso VPN -> DSH ,Erro de Acesso VPN,"Token cadastrado com sucesso, Acesso DSH ok. "
+26/05/2020,Whatsapp,Camila Silveira,Fernando,Acesso VPN -> DSH > Lentidão,Servidor de análise lento na execução de processo. ,"Feito análise do servidor, existia processos em background com mais de 28 horas em processo não utilizado consumindo mem. ram e proc. "
+28/05/2020,Whatsapp,Genicleito/Gabriela,Fernando,Inicializar API Django (DNS e Localhost),Inicializar instância api django em localhost para realizar PUT dos arquivos de municipios ,"Inicializado instância da API Django em localhost na porta 5000 e no acesso externo na porta 8000 monitor.covid19br.org sem acesso a realizar PUT, GET, POST, DELETE."
+28/05/2020,zap,Alayde,vandson,criação de usuários AVA,criar curso AVA para Gabriel dos santos,Feito
+28/05/2020,zap,Alayde,vandson,criação de usuários AVA,criar curso AVA para Prscila sacff,Aplicação Wordpress + DB disponibilizado informações passadas para o requerente. 
+28/05/2020,zap,Alayde,vandson,criação de usuários rede,criar usuário de rede de Gabriela de jesus,Reinicializado serviço do xrdp
+28/05/2020,zap,Alayde,vandson,criação de usuários rede,criar usuário de rede de Gabriel dos santos,Feito
+28/05/2020,zap,Alayde,vandson,criação de usuários rede,criar usuário de rede de Priscila scaff,Feito
+30/05/2020,email,Pablo Ivan,Pedro,Reconfiguracao do nova VM Epigen,Refeito com instalacao do Ubuntu 19.04,Feito
+02/06/2020,email,Liliana,Pedro,Copia bases do NPD,Realizado copia das bases npd para VM npd,Feito
+03/06/2020,zap,Alayde,vandson,criação de usuários AVA,criar curso AVA para Gabriela de jesus,"Realizado algumas análises de hardwares, porém constado que o equipamento não liga e não recebe carga de energia. "
+04/06/2020,Whatsapp,Charles Ferreira,Fernando,Aplicação + DB,Criação de Wordpress para o IBP,feito
+04/06/2020,Whatsapp,Gabriela,Fernando,API Django para o Apache,Configuração de API Django para Apache,feito
+05/06/2020,Whatsapp,Gabriela,Fernando,VPS -> Infraestrutura -> Webserver -> Aplicação,Realizar get via localhost com o dns ,Adicionado no /etc/hosts a entrada 127.0.0.1 monitor.covid19br.org
+05/06/2020,Whatsapp,Gabriela,Fernando,VPS -> Infraestrutura -> Permissão ,Adicionar usuário Renan Bispo ao grupo webmasters,adicionado colaborador ao grupo
+05/06/2020,Whatsapp,Gabriela,Fernando,VPS -> Infraestrutura -> Webserver -> Aplicação,Modificar dono e grupo do projeto COVIDA_BACK de apache:apache para apache:webmasters,modificado grupo do projeto covida_back
+08/06/2020,zoom,Cristiana,Pedro,Marcacao pontos de eletrica e rede novas salas,Solicitacao de marcacao dos pontos de rede e eletrica do cidacs,feito e enviado para cristiana e sheila avaliarem
+08/06/2020,zoom,Pierre,Pedro,criacao manual para copia de datasets para DSH,Solicitacao de pierre que fosse criado manual para explicar sobre copia de dataset oara o DSH,Manual praticamente finalziado
+08/06/2020,email,Cristiana,Pedro,Avaliação de orçamentos Dell para compra,Solicitacao do NOP para avaliarmos os oramentos,feito.
+14/06/2020,Whatsapp,Pierre,Fernando/Diego Fox,VPS -> Infraestrutura -> Segurança ,"Avaliação realizada e não foi identificada nenhuma falha em segurança no sistema linux ou com suas aplicações, conforme e-mail enviado.","TÉCNICO DA DELL NÃO COMPARECEU AO CIDACS, CONFORME DATA PREVISTA."
+15/06/2020,Whatsapp,Dell,Fernando,Dispositivo -> Notebook -> Problema ,Placa mãe com defeito,
+15/06/2020,Whatsapp,Andrea Ferreira,Fernando,Liberação Internet DSH ,Liberação de Internet FW,
+16/06/2020,email,maira,Pedro,criacao usuario no DSH,Criar user dsh,feito
+16/06/2020,email,maira,Pedro,liberacao de output,baixado ouput,feito
+16/06/2020,whatsapp,rafael veiga,Pedro,Problema do acesso Epigen com Github,Passado para fernando avaliar,
+16/06/2020,Whatsapp,Maíra Souza,Fernando,Infraestrutura -> Dispositivo -> Desktop,Sem acesso RDP,"Realizado deslocamento in-loco e verificado que o computador estava travado, reinicializado computador e assim a colaborador conseguiu conectar. "
+16/06/2020,Whatsapp,Aline/Ilá,Fernando,Infraestrutura -> Virtualização -> Servidor,Servidor Análises 15 com problema no setor de boot,"Após realizar inicialização em modo seguro, indentificado que o arquivo /etc/fstab estava modificado na linha UID como UiiiD, após isso feito xfs_repair -L /dev/sda"
+19/06/2020,email,Julia P.,Pedro,liberacao output atualizado,Servidor Hansen atualziado,
+23/06/2020,Whatsapp,Priscila,Fernando,Recebimento de FaceShield IGM ,Recebimento de EPI para o CIDACS,Recebido no dia 19
+23/06/2020,Whatsapp,Priscila,Fernando,Recebimento de Monitores HP IGM,Recebimento de Periféricos para o CIDACS,Recebido no dia 19
+23/06/2020,Whatsapp,Priscila,Fernando,Máquina desligada ,"Windows entrou em modo de atualização e desligou, colaboradora não conseguia conectar na VPN",Máquina ligada novamente presencialmente no dia 19
+23/06/2020,Chamado Técnico,DELL,Fernando,Troca de Placa-mãe notebook,Troca da placa-mãe realizada com sucesso. ,
+23/06/2020,Chamado Técnico,IGM,Fernando/Priscila,Solicitação de Máquina virtual para aplicação Dataverse,AGUARDANDO RETORNO DO IGM ,
+23/06/2020,whatsapp,Larissa costa,vandson,reset senha,resetar senha,senha resetada
+22/06/2020,presencial,Natanael,vandson,devolução notebook,devolução notebook,noteboolk devolvido apos troca de placa mãe
+18/06/2020,presencial,IGM,vandson,recebimento equipamentos,"recebimento de 17 equipamentos (6 desktop, 6 mini pc e 5 notebooks",recebido
+17/06/2020,whatsapp,Fernando santana,vandson,reset senha,resetar senha e tirar tempo de expirar ,feito
+25/06/2020,email,maira,Pedro,acesso de desmond no analises 20,problema com o xrdp,realizado alteracao no arquivo xrdp.ini na linha xvnc estando ok
+25/06/2020,whatsapp,Larissa costa,pedro,problema com acesso a vpn dsh,solicitado reset de senha,feito
+25/06/2020,what,Julia P.,pedro,copia de do-file,solciitado copia para andrea e camila,feito
+26/06/2020,Whatsapp,Andrea Ferreira,Fernando ,Liberação Internet DSH ,Liberação de Internet FW,
+26/06/2020,Whatsapp,Ila Falcão,Fernando,Conexão intermitente Análise 17,,
+29/06/2020,Whatsapp,André Alves ,Fernando,Instalação do Adobe XD ,Instalação completa. ,
+30/06/2020,Whatsapp,Elizabete Pinto,Fernando,Entrega de Notebook,notebook entregue a pesquisadora.  CNPQ-9882 s/n BRj0108kv6,
+30/06/2020,Whatsapp,Elizabete Pinto,Fernando,Reset Senha,Senha redefinida com sucesso. ,
+30/06/2020,Whatsapp,Maira ,Fernando,Instalação na VPS Aplicação CKAN ,Em atendimento (Aguardando Pierre liberar porta no FW VPS para aplicação SOLR com Webserver Tomcat) PROCESSO DESFEITO.,
+30/06/2020,email,maira,pedro,Criação usuario elizabete pinhodsh,criação usuaria no analises 17 sisvan,feito
+30/06/2020,email,maira,pedro,liberação output,para usuaria aline,feito
+01/07/2020,Whatasapp,Lindilande,Fernando,Exchange -> Configuração de conta.,"Realizado remoção da conta Exchange, backup do pst realizado e refeito processo. ",feito
+01/07/2020,Whatsapp,Lindland,vandson,prorrogação conta de rede,favor prorrogar conta de Luis fernando para 01/07/2021,
+01/07/2020,Whatsapp,Lindland,vandson,prorrogação conta de rede,favor prorrogar conta de Julia Pescarini para 01/07/2021,feito
+01/07/2020,Whatsapp,Maíra Souza,Fernando,Verificação da VPS Dataverse,Em atendimento / Credenciais de Acesso a Locaweb não loga informado a colaboradora.,
+03/07/2020,Whatsapp,Maíra Souza,Fernando,Busca de arquivo synth_base .dta e .csv no servidor 173.16.13.12,"Copiado para o servidor 173.16.13.16 utilizado pela curadoria, criado diretório Synth_Base /Dados/Coorte100m/Curadoria",
+03/07/2020,Whatsapp,Elzo Junior,Fernando,"Transferência de arquivo .txt, .csv e .dta para servidor GEO",Copiado arquivos para o diretório /Dados/Coorte100m/GEO_DI,
+03/07/2020,Whatsapp,Lindland,vandson,instalação pdf,instalar pdf sam,instalado
+03/07/2020,Whatsapp,Robspeirre Pita,Fernando,Desinstalação do Postgresql ,Removido Postgresql do servidor covida,
+03/07/2020,Whatsapp,Robspeirre Pita,Fernando,Desinstalação do Tomcat,Removido Tomcat do servidor covida,
+03/07/2020,Whatsapp,Elzo Junior,Fernando,Transferência de arquivo IVS_2012_BH_V4.xls.xlsx,Transferido arquivo do máquina local para o servidor 173.16.13.9,
+06/07/2020,Whatasapp,Maíra Souza,Fernando,Erro de acesso ao servidor VPS Dataverse,Identificado problema no node 2 do prestador de serviço. (serviço já normalizado).,
+06/07/2020,Whatasapp,Pierre,Fernando,Realizando novo backup das conf dataverse,Realizando backup das conf dataverse e aplicações,
+06/07/2020,Whatsapp,Gabriela Borges,Fernando,API Django para o Apache Erro Datamun não responde,Incidente resolvido após setar o wsgi em modo offline para o django usar o site-packages do python-3.6,
+06/07/2020,Whatsapp,Lindland,vandson,instalar vpn,instala vpn em novo pc,instalado
+06/07/2020,Whatsapp,Pierre,Fernando,Configuração do Forticlient no Debian ,Configurado as conexão para o  DSH e COVID19 VPN na estação de trabalho do colaborador ,
+06/07/2020,Whatsaap,Pierre,Fernando,Reset de senha para acesso ao ambiente dsh,Reset realizado do usuário robespierre.pita no fw para acesso ao DSH,
+06/07/2020,Whatsapp,Maíra Souza,Fernando,Cópia dos arquivos /opt/dados/owncloud/data/emanuele.conceicao/files ,"Cópia feita para pasta /opt/dados/raw/data/sms (Informado que os arquivos dos dias 01, 02, 03, 04 foram postados no dia 04 às 22:06 e o dia 05 postado no dia 06 às 08:40).",
+06/07/2020,Whatsapp,Samila Oliveira,Fernando,Criação de usuário acesso VPS Covida,Criado usuário para Hellen Paz na VPS ,
+06/07/2020,Whatsapp,Samila Oliveira,Fernando,Criação de usuário acesso VPS Covida,Criado usuário para Samila Silva na VPS ,
+06/07/2020,Whatsapp,Samila Oliveira,Fernando,Adicionar ao grupo Webmaster e Dados ,Adicionado colaboradora Hellen Paz aos grupos informados ,
+06/07/2020,Whatsapp,Samila Oliveira,Fernando,Adicionar ao grupo Webmaster e Dados ,Adicionado colaboradora Samila Silva aos grupos informados ,
+07/07/2020,Whatsapp,Maíra Souza,Fernando,Instalação do Putty -> Notebook Cidacs,Instalado putty com sucesso,
+07/07/2020,Whatsapp,Gabriela Borges,Fernando,Criação de virtualhost  ENV do python e depois criar no Apache,PENDENTE (AGUARDANDO USUÁRIO REALIZAR A TRANSFÊRENCIA DO PROJETO DA NUVEM PRIVADA PARA VPS),
+07/07/2020,Whatsapp,Robespierre Pita,Fernando,Liberação de Acesso a VM DSH.CIDACS ,Em atendimento,
+07/07/2020,Whatsapp,Enzo ,Fernando,Liberação de acesso internet DSH 173.16.13.4,Acesso liberado para baixar pacote do R,
+07/07/2020,Whatsapp,Gabriela Borges,Fernando,Criação de usuário VPS -> George Barbosa,Criado usuário com sucesso. ,
+07/07/2020,Whatsapp,Maíra Souza,Fernando,Copia do arquivo hdfs_dir_list_09-06-2020.csv da pasta \\172.16.10.20\departamentos\CURADORIA\ch-2304,Copiado arquivo com sucesso e enviado para colaboradora. ,
+07/07/2020,Whatsapp,Samila Oliveira,Fernando,Inclusão do usuário Hellen Paz no Rstudio ,Incluído colaboradora no grupo rsusers-rstudio,
+07/07/2020,Whatsapp,Samila Oliveira,Fernando,Inclusão do usuário Samila Silva no Rstudio ,Incluído colaboradora no grupo rsusers-rstudio,
+07/07/2020,Whatsapp,Gabriela Borges,Fernando,Configurar Anaconda3 VPS all users,Configurado Anaconda3 para global Users,
+07/07/2020,Whatsapp,Maíra Souza,Fernando,Verificar se existem novos dados da SMS no owncloud enviados por Emanuela,Informando a colaboradora que até o presente momento às 18:59 não possuí novos arquivos da COVID,
+08/07/2020,Whatsapp,Maíra/Gabriela/Pierre/Raiza,Fernando,Problemas de Acesso no site covid19br.org,"Realizado troobleshot das 11:24  às 19:30 no servidor da VPS e identificado problemas no DNS e Rede da Locaweb, aberto ticket com o foornecedor aguardando retorno. ",
+09/07/2020,Whatsapp,Poliana,vandson,atualização Rstudio free,favor atualizar,
+09/07/2020,email,Alessandro GCE,pedro,Output de dados,SOlicita saida de dados,
+09/07/2020,email,Flavia Jose,pedro,Output de dados,Passado para curadoria,
+09/07/2020,Telefone,Cristiana,pedro,Verificar informações notebook hp emprestado para elizabte,Passado os dados via email,
+09/07/2020,zoom,Pierre,pedro,Relatorio de acesso ao cluster desktop para coordenacao,enviado para os emails,
+09/07/2020,email,Camila Silveira,pedro,Limpeza e transferencia de users tub para novo servidor,em processo,
+09/07/2020,Slack,Mauro,pedro,Liberação acesso ao Hansen para limpeza dos dados,feito,
+09/07/2020,Email,Ana amelia,pedro,Verificação do usuario Rafael veiga no AVA,passado para ela,
+09/07/2020,whatsapp,Vandson,pedro,Liberação controle de acesso 2 e 3 andar de eric,feito ,
+10/07/2020,Whatsapp,Pierre,Fernando,Problemas na VPS COVID,"Realizado restore do snapshot da VM covid vps dia 06-07-2020, removido grupo desconhecido da VM ",
+10/07/2020,Whatsapp,Mirlei Moura,Fernando,"Fortclient Bloqueio Sites COVID, Gmail, Zoom e Slack, Whatsapp",Realizado inclusão dos sites como Wildcard no forclient para acesso. ,
+10/07/2020,Whatsapp,Maíra Souza,Fernando,Criação de usuário na plataforma Owncloud VPS Janaina Cardoso - Secretária de Saúde de CAMAÇARI,Criado usuário com sucesso a plataforma Owncloud e enviado para a colaboradora. ,
+10/07/2020,Whatsapp,Eliseu Soares,Fernando,"Overview - Apex One, Apex Central, Apex Client (documento PDF enviado) / 15:00 às 17:00 ","Overview realizado, será marcado uma nova data para instalação do Apex One, Central e Agents com policy, web reputation, web control e Manager. ",
+12/07/2020,Whatsapp,Naía O.,Fernando,Servidor 173.16.13.10 Travando constamente para análise de dados ,"Realizado  acesso remoto e indentificado um processo do Stata server com 213 horas em execução, sendo que aplicação teria travado conforme informado pela colaboradora","Processo foi suspenso, cache man, inodes e buffer foi removido e todos processos e memória do servidor voltar ao normal. "
+13/06/2020,Whatsapp,Poliana,vandson,Forticlient bloqueando sites,favor desbloquear,feito
+13/07/2020,Whatsapp,Naía O./Curadoria,Fernando,Retirar de arquivo de análise do servidor ,Enviado arquivo para colaboradora.,
+15/07/2020,whatsapp,Poliana,vandson,probema de conexão vpn,não conecta,
+17/07/2020,Whatsapp,Elzo Junior,Fernando,Transfêrencia de Arquivos Server - DSH,Transferência realizada para pasta /Dados/Coorte100M/GEO_DI_M/APS,
+20/07/2020,whatsapp,Lindland,vandson,configuração vpn,configurar vpn em pc novo,feito
+20/07/2020,Whatsapp,Maíra Souza,Fernando,Criação de Usuário Rafael Souza Curadoria no Datalake COVID,Usuário criado com sucesso. ,
+20/07/2020,Whatsapp,Maíra Souza,Fernando,Cópia de arquivos do Owncloud Camaçari - Janaina Cardoso para RAW OPT,Cópia concluída com sucesso,
+20/07/2020,Whatsapp,Maíra Souza,Fernando,Colocar usuário Rafael Souza no grupos r-users e dados ,Usuário adicionado aos grupos conforme solicitado. ,
+20/07/2020,Whatasapp,Charles Ferreira,Fernando,Permissão no servidor Wordpress Cidacs para aplicação GIT,Permissão concedida. ,
+21/07/2020,Email,Eliseu torres,vandson,criação usuário ava,criado e usuário fazendo,feito
+21/07/2020,whatsapp,Alayde,vandson,maquina Cidacs n mapeou ,maquina na mapea unidades,
+21/07/2020,what,Danfara,vandson,Instalação office,instalar wps,
+23/07/2020,email,Ana amelia,vandson,criação usuário ava,curso AVA para pesq Ana clara,criado e fazendo
+23/07/2020,email,Ana amelia,vandson,alteração vigencia Liliana,Alterar data de vigencia para 01/05/2021,feito
+23/07/2020,email,Ana amelia,vandson,criação usuário ava,cruso AVA para Adalton Fonseca (nucom),criado
+24/07/2020,Whatasapp,Pierre,Fernando,Formatação dos Desktop HP para Cluster,Máquinas HP formatadas para o novo cluster Desktop ,
+24/07/2020,Whatasapp,Gabriela,Fernando,API IBP para o nova VPS,Instalação e Configurações das Aplicações no servidor VPS para aplicação Indíce de Privação Brasileiro ,
+24/07/2020,Whatasapp,Pierre,Fernando/Gabriela,Django sendo acessando no diretório Raiz ,Em análise,
+24/07/2020,Whatasapp,Gabriela,Fernando,Criação de usuário para Moreno Rodrigues,Usuário criado com sucesso na VPS,
+24/07/2020,Whatasapp,Gabriela,Fernando,Permissão no Diretório /opt/dados/datasets/data/dados-visualizacao/dataset-sms para Moreno Rodrigues,Permissão Concedida,
+24/07/2020,Whatasapp,Charles Ferreira,Fernando,Backup da pasta /var/www/html/site/site-ipb/wp-content/uploads,Backup restaurado,
+24/07/2020,Whatasapp,Charles Ferreira,Fernando,Restore da pasta /var/www/html/site/site-ibp/,Restore realizado,
+27/07/2020,Whatasapp,Maíra Souza,Fernando,Handle e Glassfish Server Indisponível na VPS ,executado sh /scripts/inicializa-aplicações.sh,
+27/07/2020,Whatsapp,Fernando,Fernando,Renovação de Certificado SSL Wordpress Cidacs,Certificado renovado com sucesso. ,
+27/07/2020,Whatsapp,Fernando,Maíra,Instalação do Xming no notebook cidacs ,Aplicação instalada com sucesso. ,
+28/07/2020,Whatsapp,Fernando/Gabriela/Pierre,IGM Fiocruz,Instalação e Configuração de um server CentOS e disponibilizar para equipe IGM Fiocruz.,"Máquina disponibilizada via FTP Owncloud, aguardando IGM Fiocruz subir no datastore. ",Aguardando informação do IGM 
+30/07/2020,E-mail,Pierre,Fernando,Acompanhamento AC3 substituição Controladora - Sala Segura (Eclusa),"Equipamento substituído com sucesso, e funcional. ",
+30/07/2020,Whatsapp,Robson,Fernando,Inclusão no grupo de VPN ,Incluído colaborador ao grupo VPN,
+30/07/2020,Whatsapp,Gabriela/Karina Costa,Fernando,Inclusão do colaborador George Barbosa no grupo service-anaconda para acesso ao diretório /opt/anaconda3,Incluído colaborador ao grupo service-anaconda,
