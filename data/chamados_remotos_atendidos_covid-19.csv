@@ -1,5 +1,5 @@
 Data,Origem,Usuário,Técnico,Modalidade,Problema,Solução
-23/03/0202,Slack,Renzo,Fernando,Acesso VPN,Aplicativo Fortclient bloqueando Hotspot residêncial.,Configurar policitar para liberação no fortclient o endereço do hotspot residêncial. (PLANEJADO 24-03)
+23/03/2020,Slack,Renzo,Fernando,Acesso VPN,Aplicativo Fortclient bloqueando Hotspot residêncial.,Configurar policitar para liberação no fortclient o endereço do hotspot residêncial. (PLANEJADO 24-03)
 18/03/2020,zap,Camila,vandson,sistema,instalação de stata no notebook Cidas,"Não foi possivel, faltra de licença"
 18/03/2020,pessoalmente,Priscila,vandson,vpn,configuração,"instalado mas não estabelicido, verificado por Pedro"
 19/03/2020,zap,Alayde,vandson,vpn,configuração VPN,ajuda remota
@@ -158,8 +158,8 @@ Data,Origem,Usuário,Técnico,Modalidade,Problema,Solução
 11/05/2020,zap,Alayde,vandson,vpn,não conecta a VPN,"apenas configuração do forte client, usuário não tava clicando no correto."
 11/05/2020,zap,Elzon,vandson,instalação,instalar qgiz,instalado com sucesso.
 11/05/2020,zap,Samila,vandson,Wps,Instalação wps,instalado com sucesso.
-,GLPI,Carlos,Pedro,Cdastro servidor PBF_PNPRE,Carlos solicita cadastro Andre no analises 15,Criado conforme solicitacao GLPI
-,GLPI,Maira,Pedro,Cadastro server GEO_DI,Maira solicita cadastro de Andrea no geodi,Criado cadastro conforme GLPI
+11/05/2020,GLPI,Carlos,Pedro,Cdastro servidor PBF_PNPRE,Carlos solicita cadastro Andre no analises 15,Criado conforme solicitacao GLPI
+11/05/2020,GLPI,Maira,Pedro,Cadastro server GEO_DI,Maira solicita cadastro de Andrea no geodi,Criado cadastro conforme GLPI
 12/05/2020,zap,Marcus Freire,vandson,Office,instalação pacote office,foi instalado o Libre Office
 12/05/2020,zap,Elzon,vandson,Instalação,instalação OSview,instalado com sucesso.
 13/05/2020,email,Samila Oliveira,Pedro,cadastro fortitoken,Inclusao cadastro NPD VM cluster,Realizado cadastro dos usuarios
